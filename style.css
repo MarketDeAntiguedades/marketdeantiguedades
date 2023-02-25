@@ -7,7 +7,6 @@
     box-sizing: border-box;
     font-family: 'Candara', sans-serif;
     font-style: italic;
-    color: rgb(23, 88, 61, 0.5);
 }
 body
 {
@@ -28,7 +27,7 @@ header
 header .logo
 {
     font-size: 2em;
-    color: #fff;
+    color: #17583d;
     font-weight: 700;
     text-decoration: none;
     text-transform: uppercase;
