@@ -21,7 +21,7 @@ header
     padding: 15px 100px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: left;
     z-index: 10000;
     background-color: rgb(23, 88, 61, 0.5);
 }
@@ -117,7 +117,6 @@ h6
 #callBtn
 {
     background: #25d366;
-    position: left;
 }
 #mailBtn
 {
