@@ -18,7 +18,7 @@ header
     top: 0;
     left: 0;
     width: 100%;
-    padding: 30px 100px;
+    padding: 15px 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -96,7 +96,7 @@ h6
 {
     font-size: 6em;
     line-height: 1em;
-    color: #c3f3e2;
+    color: #17583D;
 }
 .slider .imgBx .content p
 {
