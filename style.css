@@ -21,7 +21,7 @@ header
     padding: 15px 100px;
     display: flex;
     justify-content: space-between;
-    align-items: left;
+    align-items: center;
     z-index: 10000;
     background-color: rgb(23, 88, 61, 0.5);
 }
@@ -97,6 +97,7 @@ h6
     font-size: 3em;
     line-height: 1em;
     color: #17583D;
+    position: left;
 }
 .slider .imgBx .content p
 {
