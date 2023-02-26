@@ -45,6 +45,14 @@ h6
     letter-spacing: 2px;
     transition: 0.6s;
 }
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+td {
+  padding: 10px 0;
+}
 .slider
 {
     position: relative;
