@@ -71,14 +71,14 @@ table {
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: 0.5s;
+    transition: 0.7s;
     transition-delay: 0s;
     z-index: 1;
-    clip-path: circle(0px at 0 0);
+    clip-path: circle(0px at center);
 }
 .slider input[type="radio"]:checked + .imgBx
 {
-    z-index: 35;
+    z-index: 10;
     clip-path: circle(1000px at center);
     transition-delay: 0.75s;
 }
